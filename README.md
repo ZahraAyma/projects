@@ -1,4 +1,4 @@
-# GrowMate Application
+# GrowMate Application🌱
 
 GrowMate is a desktop system created to support users in taking better care of their plants. It helps manage daily plant care activities through reminders and organized records.
 
