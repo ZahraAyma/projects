@@ -41,12 +41,20 @@ The system helps users monitor their plants by setting reminders for watering, f
 - **Java Swing** – Graphical user interface  
 - **MySQL** – Database management  
 - **JDBC** – Database connectivity  
-- **Object-Oriented Programming (OOP)** – Project design  
+- **Object-Oriented Programming (OOP)** – Project design
+
+-------
+## Project Summary
+GrowMate is designed to make plant care easier by helping users remember important tasks and keep their plants healthy.
+
+
+## Author
+colleagues Group(Including: Zahra Almarzooq)
+
 
 ---
-
-```md
 ## 📂 Project Structure
+
 ```bash
 src/
  └── growmate/
@@ -58,9 +66,3 @@ src/
       ├── model/
       └── db/
 
-## Project Summary
-GrowMate is designed to make plant care easier by helping users remember important tasks and keep their plants healthy.
-
-
-## Author
-colleagues Group(Including: Zahra Almarzooq)
