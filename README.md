@@ -1,4 +1,4 @@
-# 🌿 GrowMate – Smart Plant Care Desktop Application
+# 🌿 GrowMate – Smart Plant Desktop Application
 
 <div align="center">
 
