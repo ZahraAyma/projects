@@ -45,6 +45,7 @@ The system helps users monitor their plants by setting reminders for watering, f
 
 ---
 
+```md
 ## 📂 Project Structure
 ```bash
 src/
@@ -62,5 +63,4 @@ GrowMate is designed to make plant care easier by helping users remember importa
 
 
 ## Author
-colleagues Group(Including: Zainab Almuallim)
-
+colleagues Group(Including: Zahra Almarzooq)
